@@ -1,4 +1,4 @@
 # Demo
 This is my First Repo.
 <br>
-Author Yusuf Raja
+Author Name: Yusuf Raja
